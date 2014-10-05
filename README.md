@@ -11,13 +11,13 @@ Since the data is retrieved from the external JSON file the developer does not n
      angular.module('MainWebApp', [ 'ngResource','countriesSelect'])
 
 ### How to use
-A donut chart is called using this syntax :
+The countries select is called using this syntax :
 
 ```html
 <countries-select class="countries-list" array-countries-list = "arrayCountriesList"></countries-select>
 ```
 
-The pie chart directive attribute : `array-countries-list`.
+The countries select directive attribute : `array-countries-list`.
 
 
 #### array-countries-list
