@@ -1,5 +1,3 @@
-angular.module('MainWebApp', [ 'ngResource','countriesSelect'])
-
 angular.module('countriesSelect',[])
     .directive("countriesSelect", function () {
         return {
