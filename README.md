@@ -1,6 +1,6 @@
 ##AngularJS countries select
 
-###Countries select is an AngularJS directive for picking countries from a list.
+###Countries select is an AngularJS directive for picking countries from a list- [live demo](http://iuriistavnichuk.github.io/angularjs-countries-select/)
 
 Since the data is retrieved from the external JSON file the developer does not need to worry about generating data within the program. This makes the module more flexible and maintainable so this approach allows us to place uncountable amount of these charts on the page in the neat way without polluting your HTML.
 
